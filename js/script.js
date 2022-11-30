@@ -39,51 +39,51 @@ $(document).ready(function(){
     var galeria = [
         {
             titulo: 'Montanhas Zhangjiajie, China',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
         {
             titulo: 'Monte Everest, Nepal - Tibete',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
         {
             titulo: 'Montanhas Atlas, Marrocos',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
         {
             titulo: 'Pico dos Pireneus - França',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
         {
             titulo: 'Monte Fuji - Japão',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
         {
             titulo: 'Cerro Torre - Argentina/Chile',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
         {
             titulo: 'Monte Roraima - Brasil',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
         {
             titulo: 'Monte Branco - Itália',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
         {
             titulo: 'Monte Olimpo - Grécia',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
         {
             titulo: 'Kirkjufell - Islândia',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
         {
             titulo: 'K2 - Paquistão',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
         {
             titulo: 'Alpes Suiços - Suiça',
-            imagem: '../img/montanha'
+            imagem: 'img/montanha'
         },
     ];
     exibirGaleria(galeria);
